@@ -210,6 +210,22 @@ a:after {
 	color: white;
 }
 
+/* Green Wrap */
+#g {
+	background: green;
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+
+#g h4 {
+	color: white;
+	font-weight: 700;
+}
+
+#g p {
+	color: white;
+}
+
 /* Blue Wrap */
 
 #blue {
